@@ -4,6 +4,7 @@
 Early on we discovered that our team was split between people who walk for the journey and people who walk out of necessity. We wanted to provide those who love to explore with a randomized walking route based off how long you would like to go for a walk as well as Hidden Gem suggestions for you to see or stop by to add to your journey. For those who walk in need we wanted to provide the user the safest route available to get your destination based off data on nearby reports of crime activity, the presence of streetlights and sidewalk availability.
 
 ##What it does
+
 We have built a working IOS navigation app for walkers. Features include:
 
 1. User can set a route to their desired location
