@@ -1,0 +1,32 @@
+{
+  "pins" : [
+    {
+      "identity" : "arcgis-maps-sdk-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/esri/arcgis-maps-sdk-swift",
+      "state" : {
+        "revision" : "6ca1f4737263ef99734db917e18197c24c3a9e20",
+        "version" : "200.1.0"
+      }
+    },
+    {
+      "identity" : "sdwebimage",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SDWebImage/SDWebImage.git",
+      "state" : {
+        "revision" : "633996a807442ec28df9d33b0f88ce57a0e2fdbf",
+        "version" : "5.17.0"
+      }
+    },
+    {
+      "identity" : "sdwebimageswiftui",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SDWebImage/SDWebImageSwiftUI",
+      "state" : {
+        "revision" : "e837c37d45449fbd3b4745c10c5b5274e73edead",
+        "version" : "2.2.3"
+      }
+    }
+  ],
+  "version" : 2
+}
